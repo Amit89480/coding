@@ -1,0 +1,1 @@
+puts(strrev(s1));
